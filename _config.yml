@@ -6,10 +6,12 @@
 title: 星扬整形 #标题
 subtitle: "欢迎来到星扬整形" #副标题
 description: 专注苹果肌复位20余载 #个性签名
-keywords:
+keywords: 博客兔子
 author: 卢建伟 #作者
 language: zh-CN #语言
 timezone: Asia/Shanghai #中国的时区
+top_img: /img/butterfly-icon.png
+limit:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -102,3 +104,4 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ""
+
